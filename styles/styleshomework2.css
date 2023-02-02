@@ -1,0 +1,17 @@
+table, td {
+    border: 2px solid grey;
+    color: rgb(7, 7, 7);
+    border-collapse: separate;
+    font-size: larger;
+}
+
+img{
+    height: 55px;
+    width: 100px; 
+}
+.firstline {
+    text-align: center;
+}
+ul, li {
+    font-size: larger;
+}
